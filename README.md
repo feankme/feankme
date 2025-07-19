@@ -1,6 +1,6 @@
-## Hi everyone 😬
-
-🟢  I'm feank, welcome to my space.
+##  Hi Everyone 😬
+---
+🟢  I'm feank, Welcome to my Space.
 
 👍 I love coding, and I document all my projects here.
 
